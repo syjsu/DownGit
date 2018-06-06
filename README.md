@@ -1,3 +1,10 @@
+## 修改下载 GIT 文件的代码
+
+### 使用地址
+
+https://syjsu.github.io/git/
+
+
 <h1> <img src="https://github.com/MinhasKamal/DownGit/raw/master/res/images/downgit.png" width="20" height=auto /> DownGit </h1>
 
 [![Gitter](https://badges.gitter.im/MinhasKamal/DownGit.svg)](https://gitter.im/MinhasKamal/DownGit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
